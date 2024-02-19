@@ -1,3 +1,3 @@
 # latihan-branch
 
-Ini adalah branch dev
+Ini sekarang branch main
