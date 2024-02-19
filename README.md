@@ -15,3 +15,6 @@ berfore-merge-3
 before-rebase-1
 before-rebase-2
 before-rebase-3
+
+halo saya menambahkan kode baru  
+[ini kode saya]  
